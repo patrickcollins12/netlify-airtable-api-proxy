@@ -4,5 +4,5 @@
   publish = "build"
 
 [template.environment]
-  API_KEY = "Your secret Airtable API key"
-  REACT_APP_AIRTABLE_BASE_ID = "Your Airtable Base ID"
+  API_KEY = "keyvjbVyJKBdcU2qR"
+  REACT_APP_AIRTABLE_BASE_ID = "app2OQ52OpAEK5GoV"
